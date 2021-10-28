@@ -1,6 +1,6 @@
 # Jogo Genius 🟢🔴🟡🔵
 
-Este projeto foi desenvolvido com o proprósito de recriar o Jogo Genius utilizando HTML, CSS e JavaScript, para fixação de conteúdos estudados.
+Este projeto foi desenvolvido com o propósito de recriar o Jogo Genius utilizando HTML, CSS e JavaScript, para fixação de conteúdos estudados.
 
 #### Conceitos implementados 
 
